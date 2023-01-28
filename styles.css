@@ -1,0 +1,21 @@
+
+h1, .header-small {
+    font-weight: 400;
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: rgb(0, 0, 0);
+    text-align: left;
+    color: white;
+    font-weight: 800;
+}
+
+.links {
+    text-align: center;
+    color: black;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+}
