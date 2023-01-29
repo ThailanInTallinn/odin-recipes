@@ -1,0 +1,33 @@
+
+h1, .lasagna {
+    font-weight: 800;
+    text-align: center;
+    background-image: linear-gradient(to right, rgba(000, 255, 000, 1), rgba(255, 255, 255, 1), rgba(255, 000, 000, 1) );
+
+}
+
+h2 {
+    text-align: center;
+    color: rgba(000, 000, 000, 1);
+    margin-top: 40px;
+    font-weight: 400;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-large;
+}
+.image {
+    margin-left: 115px;
+    margin-top: 50px;
+}
+
+ul, ol {
+    text-align: center;
+}
+
+.lasagna {
+    margin-top: 30px;
+    background-size: 400px 21500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
