@@ -1,6 +1,4 @@
-body {
-    text-align: center;
-}   
+
 h1, .lasagna {
     font-weight: 800;
     text-align: center;
@@ -17,8 +15,9 @@ h2 {
     font-size: x-large;
 }
 .image {
-    margin-left: 115px;
-    margin-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 ul, ol {
