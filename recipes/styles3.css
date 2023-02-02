@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(170, 211, 170);
+}
+
+h1 {
+    font-size: 100px;
+}
+
+h1, h2, h3, ul, ol {
+    margin-bottom: 50px;
+    text-align: center;
+    align-items: center;
+}
+
+.image {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#returnButton {
+    text-align: left;
+}
+
