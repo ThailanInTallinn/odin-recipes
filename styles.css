@@ -2,11 +2,7 @@ body {
     background-color: #fff8dc;
     font-family: Open Sans, Arial, Helvetica, sans-serif;
 }
-.header-small {
-    margin-top: 50px;
-    font-weight: 400;
-    color: black;
-}
+
 
 h1 {
     box-sizing: border-box;
@@ -16,12 +12,6 @@ h1 {
     padding-inline-start: 20px;
     font-size: 30px; 
     color: #fff8dc;
-}
-
-.links {
-    color: black;
-    font-weight: 500;
-    font-size: large;
 }
 
 
