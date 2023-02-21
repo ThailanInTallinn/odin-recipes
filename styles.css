@@ -18,8 +18,8 @@ article {
 
 h1 {
     background-color: #ff7f50;
-    block-size: 180px;
-    padding-block-start: 115px;
+    block-size: 6em;
+    padding-block-start: 4em;
     padding-inline-start: 20px;
     font-size: 30px; 
     color: #fff8dc;
