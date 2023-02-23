@@ -8,8 +8,9 @@ section {
 }
 
 article {
-  margin: 10px;
-  padding: 30px;
+  margin: 0.5em;
+  padding: 3em;
+  padding-left: 9em;
   block-size: 130px;
   background-color: blue;
   color: white;
