@@ -41,9 +41,7 @@ h1:hover {
 
 #returnButton:hover {
   cursor: pointer;
-  inline-size: 14rem;
-  block-size: 5.6rem;
-
+  transform: scale(1.40);
   transition-duration: 0.7s;
 }
 
