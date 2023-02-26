@@ -22,6 +22,7 @@ h1, h2, h3, ul, ol {
     box-sizing: border-box;
     inline-size: 10rem;
     block-size: 4rem;
+    background-color: #2e8b57;;
   
 }
 
@@ -35,6 +36,10 @@ h1:hover {
   font-size: 7rem;
   transition-duration: 0.4s; 
   color: #2e8b57;
+}
+
+#returnButton:hover {
+  cursor: pointer;
 }
 
 
