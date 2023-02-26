@@ -18,6 +18,9 @@ h1, h2, h3, ul, ol {
 }
 
 #returnButton {
-    text-align: left;
+    display:block;
+    box-sizing: border-box;
+    align-items: center;
+    text-align: center;
 }
 
