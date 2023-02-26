@@ -22,7 +22,8 @@ h1, h2, h3, ul, ol {
     box-sizing: border-box;
     inline-size: 10rem;
     block-size: 4rem;
-    background-color: #2e8b57;;
+    background-color: #2e8b57;
+    border: none;
   
 }
 
