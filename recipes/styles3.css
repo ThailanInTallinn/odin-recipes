@@ -45,6 +45,8 @@ h1:hover {
   transition-duration: 0.7s;
   background-color: #ff7f50; 
   color: #fff8dc;
+  font-family: "Open Sans", "PT Sans", Arial, Helvetica, sans-serif;
+  border-radius: 0.75rem;
 }
 
 
