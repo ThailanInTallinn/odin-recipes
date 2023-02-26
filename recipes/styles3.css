@@ -24,7 +24,7 @@ h1, h2, h3, ul, ol {
     block-size: 4rem;
     background-color: #2e8b57;
     border: none;
-  
+    font-size: 1rem;
 }
 
 div {
@@ -43,6 +43,7 @@ h1:hover {
   cursor: pointer;
   inline-size: 14rem;
   block-size: 5.6rem;
+
   transition-duration: 0.7s;
 }
 
