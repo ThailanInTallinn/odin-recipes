@@ -18,7 +18,7 @@ h1, h2, h3, ul, ol {
 }
 
 #returnButton {
-    display:block;
+    display:inline-block;
     box-sizing: border-box;
     inline-size: 4rem;
     block-size: 4rem;
@@ -26,3 +26,8 @@ h1, h2, h3, ul, ol {
     text-align: center;
 }
 
+div {
+  align-items: center;
+  text-align: center;
+  margin: 7rem 30rem 4rem;
+}
