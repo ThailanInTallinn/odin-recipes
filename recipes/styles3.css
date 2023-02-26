@@ -20,6 +20,8 @@ h1, h2, h3, ul, ol {
 #returnButton {
     display:block;
     box-sizing: border-box;
+    inline-size: 4rem;
+    block-size: 4rem;
     align-items: center;
     text-align: center;
 }
