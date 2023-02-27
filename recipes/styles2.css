@@ -7,9 +7,9 @@ h1, .lasagna {
 }
 
 h1 {
-    padding: 40px;
+    padding: 2.5rem;
    /* margin: 30px;*/ 
-    font-size: 80px;
+    font-size: 5rem;
 }
 
 h2 {
