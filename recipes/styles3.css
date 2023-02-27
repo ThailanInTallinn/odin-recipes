@@ -37,6 +37,7 @@ h1:hover {
   font-size: 7rem;
   transition-duration: 0.4s; 
   color: #2e8b57;
+  cursor: pointer;
 }
 
 #returnButton:hover {
