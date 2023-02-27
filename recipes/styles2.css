@@ -10,6 +10,10 @@ h1 {
     padding: 2.5rem;
    /* margin: 30px;*/ 
     font-size: 5rem;
+    background-image: url(../images/italy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
 
 h2 {
