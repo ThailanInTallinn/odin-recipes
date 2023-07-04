@@ -3,10 +3,8 @@ body {
     background-color: #F0F8FF;
 }
 
-ul {
-    list-style-type: none;
-}
-
+ul, 
 a {
+    list-style-type: none;
     text-decoration: none;
 }
