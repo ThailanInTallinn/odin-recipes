@@ -4,7 +4,9 @@ body {
 }
 
 ul, 
-a {
+a,
+a:visited {
     list-style-type: none;
     text-decoration: none;
 }
+
