@@ -26,5 +26,6 @@ a:visited {
 }
 
 .first, .signature {
+    display: inline-block;
 }
 
