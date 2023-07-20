@@ -38,5 +38,6 @@ a:visited {
 .first, .signature {
     display: inline-block;
     margin: 0;
+    vertical-align: bottom;
 }
 
