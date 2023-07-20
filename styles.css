@@ -32,6 +32,10 @@ a:visited {
     width: 135px;
 }
 
+.header.first {
+
+}
+
 .first, .signature {
     display: inline-block;
 }
