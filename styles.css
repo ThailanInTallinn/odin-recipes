@@ -33,10 +33,10 @@ a:visited {
 }
 
 .header.first {
-
 }
 
 .first, .signature {
     display: inline-block;
+    margin: 0;
 }
 
