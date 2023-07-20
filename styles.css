@@ -31,6 +31,7 @@ a:visited {
 .header.signature {
     font-size: 1em;
     width: 135px;
+    vertical-align: bottom;
 }
 
 .header.first {
@@ -39,6 +40,5 @@ a:visited {
 .first, .signature {
     display: inline-block;
     margin: 0;
-    vertical-align: bottom;
 }
 
