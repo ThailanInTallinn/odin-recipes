@@ -22,6 +22,10 @@ a:visited {
     max-width: 1400px;
 }
 
+.header.master {
+
+}
+
 .header.signature {
     font-size: 1em;
     /*margin-left: 1000px;*/
