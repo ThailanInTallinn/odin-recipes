@@ -24,11 +24,14 @@ a:visited {
 
 .header.master {
     margin: 5px auto;
+    max-height: 120px;
+    height: 120px;
 }
 
 .header.signature {
     font-size: 1em;
-    /*margin-left: 1000px;*/
+    width: 1150px;
+    text-align: end;
 }
 
 .first, .signature {
