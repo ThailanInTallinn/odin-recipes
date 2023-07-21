@@ -45,6 +45,6 @@ a:visited {
 }
 
 ul li {
-
+    display: inline-block;
 }
 
