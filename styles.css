@@ -54,6 +54,7 @@ ul li {
 
 .list-container {
     border: 2px solid red;
+    max-width: 1200px;
 
 }
 
