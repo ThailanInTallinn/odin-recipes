@@ -40,14 +40,16 @@ a:visited {
 }
 
 .first, .signature {
-    display: inline-block;
     margin: 0;
 }
 
 ul li {
-    display: inline-block;
     margin: 10px;
     border: 2px solid red;
+}
+
+.first, .signature, ul li {
+    display: inline-block;
 }
 
 .list-container {
