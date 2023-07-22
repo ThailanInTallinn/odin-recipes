@@ -47,14 +47,18 @@ a:visited {
 ul li {
     display: inline-block;
     margin: 10px;
+    border: 2px solid red;
 }
 
 .list-container {
+    border: 2px solid red;
 
 }
 
 .content {
- max-width: 1400px;
+  max-width: 1400px;
+  border: 2px solid red;
+
 }
 
 
