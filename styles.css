@@ -57,6 +57,10 @@ ul li {
 
 }
 
+ul li, .list-container {
+
+}
+
 .content {
   max-height: 700px;
   height: 500px;
