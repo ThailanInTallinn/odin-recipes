@@ -48,6 +48,8 @@ ul li {
     border: 2px solid red;
     width: 348px;
     height: 280px;
+    font-size: 3em;
+    font-weight: 700;
 }
 
 ul {
